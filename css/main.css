@@ -1,0 +1,355 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	width: 100%;
+	margin: 0;
+}
+.contener
+{
+	width: 100%;
+	height: 4000px;
+	background-color:#FFFFFF;
+}
+.noidung1
+{
+	width: 100%;
+	height: 1000px;
+	background-color:#FFFFFF;
+}
+.thanhmenu
+{
+	width: 100%;
+	height: 100px;
+	background-color:blue;
+	position: fixed;
+}
+.logo
+{
+	width: 35%;
+	height: 100px;
+	background-image: url("../images/Artboard 21.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color:#000000;
+	float: left;
+}
+.trangchu
+{
+	width: 65%;
+	height: 100px;
+	background-color:#000000;
+	float: right;
+}
+.noidung2
+{
+	width: 100%;
+	height: 1000px;
+	background-color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+}
+.ovuong1
+{
+	width: 510px;
+	height: 838px;
+	margin: 150px 30px 15px 0 ;
+	background-color:#FFFFFF;
+	border: 5px solid #000000;
+}
+.ovuong2
+{
+	width: 510px;
+	height: 838px;
+	margin: 150px 30px 15px 0 ;
+	background-color:#FFFFFF;
+	border: 5px solid #000000;
+}
+.ovuong3
+{
+	width: 510px;
+	height: 838px;
+	margin: 150px 30px 15px 0 ;
+	background-color:#FFFFFF;
+	border: 5px solid #000000;
+}
+.ovuonghinh1
+{
+	width:510px;
+	height: 165px;
+	background-color:#FFFFFF;
+}
+.ovuongchu1
+{
+	width: 510px;
+	height: 575px;
+	
+}
+.khoangtrong1
+{
+	width: 510px;
+	height: 43px;
+	background-color:#FFFFFF;
+}
+.khoangtrong2
+{
+	width: 510px;
+	height: 30px;
+	background-color:#FFFFFF;
+}
+.khoangtrong3
+{
+	width: 510px;
+	height: 43px;
+	background-color:#FFFFFF;
+}
+.ovuongchu2
+{
+	width: 510px;
+	height: 765px;
+	
+}
+.khoangtrong4
+{
+	width: 510px;
+	height: 43px;
+	background-color:#FFFFFF;
+}
+.ovuongchu3
+{
+	width: 510px;
+	height: 765px;
+	
+}
+.ovuonglogo
+{
+	width: 165.964px;
+	height: 165.964px;
+	background-color:chocolate;
+	margin: 0 0 0 43px;
+}
+
+.noidung3
+{
+	width: 100%;
+	height: 1000px;
+	background-color:blueviolet;
+}
+.khungnoidung2
+{
+	width: 66%;
+	height: 1000px;
+	background-color:#FFFFFF;
+	float: left;
+	background-image: url("../images/foderfn.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+.khungnoidung1
+{
+	width: 34%;
+	height: 1000px;
+	background-image: url("../images/dtfn2.gif");
+	float: right;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.khungchu1
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 300px 60px 0 250px ;
+	float:left;
+	
+}
+.khungchu2
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 300px 60px 0 67px ;
+	float:left;
+	
+}
+.khungchu3
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 300px 60px 0 70px ;
+	float:left;
+	
+}
+.khungchu4
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 50px 60px 0 250px ;
+	float:left;
+	
+}
+.khungchu5
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 50px 60px 0 67px ;
+	float:left;
+	
+}
+.khungchu6
+{
+	width: 245px;
+	height: 245px;
+	background-color:yellow;
+	margin: 50px 60px 0 70px ;
+	float:left;
+	
+}
+.foder1
+{
+	width: 245px;
+	height: 170px;
+	background-color:#FFFFFF;
+	display: flex;
+	justify-content: center;
+}
+.tenfoder1
+{
+	width: 245px;
+	height: 75px;
+	background-color:#FFFFFF;
+}
+.noidung4
+{
+	width: 100%;
+	height: 1000px;
+	background-color:cadetblue;
+}
+.hinhlienhe
+{
+	width: 51%;
+	height: 1000px;
+	background-color:#FFFFFF;
+	float: right;
+	background-image: url("../images/lienhe.gif");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.khunglienhe
+{
+	width: 49%;
+	height: 1000px;
+	background-color:coral;
+	float: left;
+}
+.khungkhachdien
+{
+	width: 100%;
+	height: 900px;
+	background-color:#FFFFFF;
+	
+	display: flex;
+	justify-content: center;
+}
+.khunglink
+{
+	width: 100%;
+	height: 100px;
+	background-color:#FFFFFF;
+	
+	
+}
+.khunglogo
+{
+	width: 100px;
+	height: 100px;
+	background-color:#FFFFFF;
+	float: left;
+	margin: 0 10px 0 90px;	
+}
+table
+{
+	margin: 250px 0 0 0 ;
+}
+ul
+{
+	list-style: none;
+}
+ul li
+{
+	list-style: none;
+	text-decoration: none;
+	float: left;
+	color:#FFFFFF;
+	padding:15px 30px 15px 150px;
+	background-color: none;
+}
+ul li a
+{
+text-decoration: none;
+color: #FFFFFF; 	
+	
+}
+.chutucca
+{
+	width: 100%;
+	height: 1000px;
+	background-image: url("../images/backgroundfn2.gif");
+	background-size: 100% 1000px;
+}
+.fontmenu
+{
+	font-size: 30pt;
+	margin: auto;
+}
+p li a
+{
+	color: #000000;
+	padding: 50px 30px 15px 150px;
+	
+}
+
+b p
+{
+	font-size: 25pt;
+	margin: auto;
+	padding: 400px;
+		
+}
+h1
+{
+	font-size: 25pt;
+	margin: auto;
+	padding: 250px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+p
+{
+	font-size: 20pt;
+	margin: 0 43px 0 43px;
+	
+}
+
+li
+{
+	list-style:circle;
+	text-decoration:underline;
+	
+	color:#000000;
+}
+table
+{
+	border-spacing: 30px;
+}
+td
+{
+	height: 70px;	
+}
